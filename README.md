@@ -22,17 +22,13 @@ Part 1 : Create Instance in EC2
 
 <img src="step9.PNG" alt= “” width="500px" height="300px">
 
-<img src="step10.PNG" alt= “” width="500px" height="300px">
-
-<img src="step11.PNG" alt= “” width="500px" height="300px">
+<img src="step15.PNG" alt= “” width="500px" height="300px">
 
 <img src="step12.PNG" alt= “” width="500px" height="300px">
 
 <img src="step13.PNG" alt= “” width="500px" height="300px">
 
 <img src="step14.PNG" alt= “” width="500px" height="300px">
-
-<img src="step15.PNG" alt= “” width="500px" height="300px">
 
 
 
