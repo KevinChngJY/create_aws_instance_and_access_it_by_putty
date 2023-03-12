@@ -3,3 +3,6 @@
 Belows are steps demonstrating how to create EC2 (Virtual Machine-Linux VM) and later access the EC2 using Putty :
 
 Part 1 : Create Instance in EC2
+
+
+https://www.puttygen.com/
