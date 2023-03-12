@@ -6,6 +6,22 @@ Part 1 : Create Instance in EC2
 
 <img src="step1.PNG" alt= “” width="500px" height="400px">
 
+<img src="step2.PNG" alt= “” width="500px" height="400px">
+
+<img src="step3.PNG" alt= “” width="500px" height="400px">
+
+<img src="step4.PNG" alt= “” width="500px" height="400px">
+
+<img src="step5.PNG" alt= “” width="500px" height="400px">
+
+<img src="step6.PNG" alt= “” width="500px" height="400px">
+
+<img src="step7.PNG" alt= “” width="500px" height="400px">
+
+<img src="step8.PNG" alt= “” width="500px" height="400px">
+
+<img src="step9.PNG" alt= “” width="500px" height="400px">
+
 
 
 https://www.puttygen.com/
