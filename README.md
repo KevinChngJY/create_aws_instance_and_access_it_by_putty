@@ -4,7 +4,7 @@ Belows are steps demonstrating how to create EC2 (Virtual Machine-Linux VM) and 
 
 Part 1 : Create Instance in EC2
 
-<img src="step1.PNG" alt= “” width="50px" height="50px">
+<img src="step1.PNG" alt= “” width="5000px" height="5000px">
 
 
 
