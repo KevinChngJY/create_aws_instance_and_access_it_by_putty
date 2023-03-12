@@ -47,14 +47,14 @@ Click Save private key and save the .ppk file somewhere on your file system <br>
 Open putty, key in the IP address (Public IP address or DNS Name) :<br>
 <img src="step12.PNG" alt= “” width="500px" height="300px">
 
-Go to Connection>Auth>broswse the ppk key that you created :
+Go to Connection>Auth>broswse the ppk key that you created : <br>
 <img src="step13.PNG" alt= “” width="500px" height="300px">
 
-Navigate back to session, save the session before connecting! :
+Navigate back to session, save the session before connecting! : <br>
 <img src="step14.PNG" alt= “” width="500px" height="300px">
 
-After connecting to the server, it would prompted to ask for username:
-you may refer to the documentation below for default username:
+After connecting to the server, it would prompted to ask for username: <br>
+you may refer to the documentation below for default username: <br>
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html
 
 Hope it helps you...
